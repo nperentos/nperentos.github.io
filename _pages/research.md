@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Naturalistic Neuroscience Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Naturalistic Neuroscience Lab -- Research"
 sitemap: false
 permalink: /research/
 ---

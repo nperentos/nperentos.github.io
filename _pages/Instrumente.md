@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Instrumente"
+title: "Naturalistic Neuroscience Lab - Instrumente"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
