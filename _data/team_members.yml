@@ -1,18 +1,45 @@
 - name: Nikolas Perentos
   photo: NPerentos1.png
-  info: Assistant Professor, started September 2022
+  info: Assistant Professor, UNic Vet School
   email: perentos.n@unic.ac.cy
   number_educ: 4
-  education1: BEng (2005), <a href="https://www.rmit.edu.au">RMIT University</a>, Australia
-  education2: PhD (2009), with <a href="https://scholars.uow.edu.au/rodney-croft">J.R. Croft</a>, and I. Cosic
-  education3: Postdoc (2016), University of Cambridge, UK with <a href="https://www.pdn.cam.ac.uk/other-pages/morton/mortonlab">A.J. Morton</a>
-  education4: Marie Curie Individual Fellowship at <a href="https://cogneuro.bio.lmu.de/">Anton Sirota's Lab </a>, at LMU, Munich
+  education1: Marie Curie Individual Fellow <a href="https://cogneuro.bio.lmu.de/">Sirota Lab </a>, LMU, Munich
+  education2: Postdoc (2016), <a href="https://www/cam.ac.uk">University of Cambridge</a>, UK with <a href="https://www.pdn.cam.ac.uk/other-pages/morton/mortonlab">A.J. Morton</a>
+  education3: PhD (2009), with <a href="https://scholars.uow.edu.au/rodney-croft">J.R. Croft</a>, and I. Cosic 
+  education4: BEng, Electronics and Electrical Engineering, <a href="https://www.rmit.edu.au">RMIT University</a>, Australia
 
 
 - name: Avgis Hadjipapas
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+  photo: Avgis2.jpg
+  info: Professor, UNic Med School <b>- core collaborator</b>
+  email: hadjipapas.a@unic.ac.cy
+  number_educ: 4
+  education1: Postdoc with Ole Jensen, Gareth Barnes and Ian Holliday <a href="https://www.ru.nl/en/donders-institute">Donders Institute for Brain, Cognition, and Behaviour </a>
+  education2: PhD in Neuroscience MEG (2005), <a href="https://www.aston.ac.uk">Aston University</a>, Birmingham, UK
+  education3: MSc in Cognitive Science/EEG (2002), <a href="https://kognitivna-nauka-i-psihologija.nbu.bg/en/">New Bulgarian University</a>, Sofia
+  education4: Medical Degree (2000), <a href="https://www.uni-kiel.de/en/">University of Kiel</a>, Germany
+
+- name: Arman Kalsahakian 
+  photo: Arman.jpg
+  info: summer intern - gamma oscillations in AD
+  email: hadjipapas.a@unic.ac.cy
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: MSc Neuroscience candidate (2025), <a href="https://www.cing.ac.cy">Cyprus Institute of Neurology and Genetics</a>, Cyprus
+  education2: BSc Human Biology (2024), <a href="https://www.unic.ac.cy">University of Nicosia </a> , Cyprus
+
+- name: Aswinshankar Sivalingam
+  photo: Aswinshankar.jpg
+  info: research intern - evoked potentials in AD
+  email: hadjipapas.a@unic.ac.cy
+  number_educ: 2
+  education1: Postdoc with Ole Jensen, Gareth Barnes and Ian Holliday <a href="https://www.ru.nl/en/donders-institute">Donders Institute for Brain, Cognition, and Behaviour </a>
+  education2: PhD in Neuroscience Magnetoencephalography (2005), <a href="https://www.aston.ac.uk">Aston University</a>, Birmingham, UK
+
+
+- name: Natalya Loutzis
+  photo: Natalya.jpg
+  info: research intern - brain stomach coupling mechanisms
+  email: natalyaloutzis@icloud.com
+  number_educ: 2
+  education1: investigating brain stomach coupling mechanisms
+  education2: Medical Doctor Candidate (2028) <a href="https://www.unic.ac.cy/med/">University of Nicosia, Merdical School </a>
