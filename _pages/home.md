@@ -15,35 +15,35 @@ permalink: /
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+        <!--<li data-target="#carousel" data-slide-to="6"></li>-->
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sheep_brain_histology_rsz.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/math.png" alt="Slide 1" />
+            <p align="center">Brain as an engine for computation</p>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/naturalistic.png" alt="Slide 2" />
+            <p align="center">Plans for naturalistic neuroscience in large animals</p>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/histology.png" alt="Slide 3" />
             <p align="center">A sheep brain atlas under preparation</p>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sheep_brain_histology_rsz.jpg" alt="Slide 2" />
-            <p align="center">Sheep brain atlas (publication in prep)</p>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sheep_brain_histology_rsz.jpg" alt="Slide 3" />
-             <p align="center">Sheep brain atlas (publication in prep)</p>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sheep_brain_histology_rsz.jpg" alt="Slide 4" />
-             <p align="center">Sheep brain atlas (publication in prep)</p>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sheep_brain_histology_rsz.jpg" alt="Slide 5" />
-             <p align="center">Sheep brain atlas (publication in prep)</p>
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sheep_brain_histology_rsz.jpg" alt="Slide 6" />
-             <p align="center">Sheep brain atlas (publication in prep)</p>
-        </div>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/silicon_far.png" alt="Slide 4" />
+            <p align="center">Typical silicon probe recording in headfixed mice</p>
+        </div> 
+          <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sinaps.png" alt="Slide 5" />
+            <p align="center">8 shanks and 1024 channels - Sinaps probe recording (photo: Andreas Genewsky) </p>
+        </div>  
+          <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/silicon_zoom.png" alt="Slide 6" />
+            <p align="center"> dual site acute silicon probe recording in awake mice </p>
+        </div>  
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -73,7 +73,7 @@ We are located at the University of Nicosia (UNIC) [School of Veterinary Medicin
 
 Our funding comes from Cyprus' [Research and Innovation Foundation](https://www.research.org.cy) and the  University of Nicosia [Medical School](https://www.unic.ac.cy/med/) Internal Seed Funding.
 
- **We are  looking for PhD students and our doors are always open for internships to anyone interested in the nervous systems of humans and animals** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for PhD students and our doors are open for internships to anyone interested in the nervous systems of humans and animals** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 

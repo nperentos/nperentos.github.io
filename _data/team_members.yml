@@ -32,13 +32,21 @@
   info: research intern - evoked potentials in AD
   email: hadjipapas.a@unic.ac.cy
   number_educ: 2
-  education1: Postdoc with Ole Jensen, Gareth Barnes and Ian Holliday <a href="https://www.ru.nl/en/donders-institute">Donders Institute for Brain, Cognition, and Behaviour </a>
-  education2: PhD in Neuroscience Magnetoencephalography (2005), <a href="https://www.aston.ac.uk">Aston University</a>, Birmingham, UK
-
+  education1: Medical Doctor Candidate 2029, <a href="https://www.unic.ac.cy/med/">University of Nicosia, Medical School </a>
+  education2: BSc Mathematics/Statistics (Hons) 2022, <a href="https://warwick.ac.uk">University of Warwick</a>, UK
 
 - name: Natalya Loutzis
   photo: Natalya.jpg
   info: research intern - brain-stomach coupling mechanisms
   email: natalyaloutzis@icloud.com
   number_educ: 1
-  education1: Medical Doctor Candidate (2028) <a href="https://www.unic.ac.cy/med/">University of Nicosia, Merdical School </a>
+  education1: Medical Doctor Candidate (2028) <a href="https://www.unic.ac.cy/med/">University of Nicosia, Medical School </a>
+
+- name: Aniela Kalliopi Stylianou
+  photo: Aniela.jpg
+  info: research intern - sheep behavioral tracking
+  email: stylianou.a30@live.unic.ac.cy
+  number_educ: 3
+  education1: Doctor of Veterinary Medicine Candidate (2028) <a href="https://www.unic.ac.cy/vet/doctor-of-veterinary-medicine-dvm/">University of Nicosia, School of Veterinary Medicine </a>
+  education2: Zookeeper and Animal Behaviorist Assistant, <a href="https://www.jhbcityparksandzoo.com/services-facilities/zoo/about/">Johanesburg Zoo</a>, South Africa
+  education3: Animal Biology, Behavior, Welfare and Ethics, <a href="https://www.rvc.ac.uk/">Royal Veterinary College</a>, UK

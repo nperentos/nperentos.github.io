@@ -3,6 +3,8 @@ title: "Naturalistic Neuroscience Lab - Pictures"
 layout: piclay
 excerpt: "Naturalistic Neuroscience Lab -- Pictures"
 permalink: /pictures/
+published: false
+sitemap: false
 ---
 
 # Pictures
