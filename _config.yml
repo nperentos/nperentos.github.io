@@ -10,8 +10,8 @@ title: The Naturalistic Neuroscience Lab
 email: perentos.n@unic.ac.cy
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Naturalistic Neuroscience Lab
-baseurl: ""
-url: ""
+baseurl: "nperentos.github.io"
+url: "https://nperentos.github.io"
 
 include:
   - .htaccess
