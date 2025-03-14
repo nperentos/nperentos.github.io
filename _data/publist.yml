@@ -1,29 +1,116 @@
-
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: ShotNoise.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Perentos
+- title: "Multi-shank 1024 channels active SiNAPS probe for large multi-regional topographical electrophysiological mapping of neural dynamics"
+  image: sinaps.jpg
+  description: This study introduces a novel multi-shank SiNAPS probe capable of large-scale electrophysiological mapping across multiple brain regions. The probe features 1024 channels, enabling detailed neural dynamics analysis in awake, behaving subjects.
+  authors: G N. Angotzi, M Vöröslakos, N Perentos, J. F. Ribeiro, M. Vincenzi, F. Boi, A. Lecomte, G. Orbán, A. Genewsky, G. Schwesig, D. Aykan, G. Buzsáki, A. Sirota, L. Berdondini
   link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202416239
+    display: Advanced Science, e2416239 (Advance online publication)
   highlight: 1
 
-- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Perentos
+- title: "Key roles of C2/GAP domains in SYNGAP1-related pathophysiology"
+  image: SYNGAP1Pathophysiology.png
+  description: This study explores the critical roles of C2/GAP domains in the pathophysiology associated with SYNGAP1, a gene linked to intellectual disability and other neurological disorders. The research sheds light on how these domains contribute to the underlying mechanisms.
+  authors: D. Katsanevaki, S. M. Till, I. Buller-Peralta, M. S. Nawaz, S. R. Louros, V. Kapgal, S. Tiwari, D. Walsh, N. J. Anstey, N. G. Petrović, A. Cormack, V. Salazar-Sanchez, A. Harris, W. Farnworth-Rowson, A. Sutherland, T. C. Watson, S. Dimitrov, A. D. Jackson, D. Arkell, S. Biswal, … P. C. Kind
   link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
+    url: https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01084-2
+    display: Cell Reports, 43(9), 114733
   highlight: 0
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Perentos
+- title: "Deep brain electrophysiology in freely moving sheep"
+  image: sheep_su.jpg
+  description: This study explores deep brain electrophysiology in freely moving sheep, providing insights into neural activity in a naturalistic setting. The research offers a unique perspective on brain function in a large animal model.
+  authors: N. Perentos, M. Krstulovic, A. J. Morton
   link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials 22, 703 (2023)
+    url: https://www.sciencedirect.com/science/article/pii/S096098222101722X
+    display: Current Biology, 32(4), 763–774.e4
+  highlight: 1
+
+- title: "Techniques for chronic monitoring of brain activity in freely moving sheep using wireless EEG recording"
+  image: SheepWirelessEEG.png
+  description: This study presents techniques for chronic monitoring of brain activity in freely moving sheep using wireless EEG recording. The research focuses on developing methods for long-term neural activity monitoring in a naturalistic setting.
+  authors: N. Perentos, A. U. Nicol, A. Q. Martins, J. E. Stewart, P. Taylor, A. J. Morton
+  link:
+    url: https://doi.org/10.1016/j.jneumeth.2016.11.010
+    display: Journal of Neuroscience Methods, 279, 87–100
   highlight: 0
-  news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
+
+- title: "An EEG investigation of sleep homeostasis in healthy and CLN5 Batten disease affected sheep"
+  image: SleepHomeostasisSheep.png
+  description: This study explores sleep homeostasis in both healthy sheep and those affected by CLN5 Batten disease using EEG. The research provides insights into how sleep patterns differ between healthy and diseased animals.
+  authors: N. Perentos, A. Q. Martins, R. J. Cumming, N. L. Mitchell, D. N. Palmer, S. J. Sawiak, A. J. Morton
+  link:
+    url: https://www.jneurosci.org/content/36/31/8238
+    display: The Journal of Neuroscience, 36(31), 8238–8249
+  highlight: 0
+
+- title: "Automated detection and characterisation of rumination in sheep using in vivo electrophysiology"
+  image: SheepRumination.png
+  description: This study presents an automated method for detecting and characterizing rumination in sheep using in vivo electrophysiology. The research aims to improve understanding of digestive processes in sheep through advanced monitoring techniques.
+  authors: A. U. Nicol, N. Perentos, A. Q. Martins, A. J. Morton
+  link:
+    url: https://doi.org/10.1016/j.physbeh.2016.05.028
+    display: Physiology & Behavior, 163, 258–266
+  highlight: 0
+
+- title: "A mobile, high-throughput semi-automated system for testing cognition in large non-primate animal models of Huntington disease"
+  image: HuntingtonCognition.png
+  description: This study introduces a mobile, high-throughput semi-automated system for assessing cognition in large non-primate animal models of Huntington's disease. The system aims to improve efficiency and accuracy in cognitive testing.
+  authors: S. D. McBride, N. Perentos, A. J. Morton
+  link:
+    url: https://doi.org/10.1016/j.jneumeth.2015.08.025
+    display: Journal of Neuroscience Methods, 265, 25–33
+  highlight: 0
+
+- title: "Translational neurophysiology in sheep: measuring sleep and neurological dysfunction in CLN5 Batten disease affected sheep"
+  image: BattenDiseaseSheep.png
+  description: This study explores the use of sheep as a translational model for studying sleep and neurological dysfunction in CLN5 Batten disease. The research aims to understand disease mechanisms and develop potential therapeutic strategies.
+  authors: N. Perentos, A. Q. Martins, T. C. Watson, U. Bartsch, N. L. Mitchell, D. N. Palmer, M. W. Jones, A. J. Morton
+  link:
+    url: https://academic.oup.com/brain/article/138/4/862/246444
+    display: Brain, 138(Pt 4), 862–874
+  highlight: 0
+
+- title: "Understanding the concept of a reflective surface: can sheep improve navigational ability through the use of a mirror?"
+  image: SheepMirrorNavigation.png
+  description: This study investigates whether sheep can improve their navigational abilities by using a mirror as a reflective surface. The research explores cognitive aspects of spatial awareness and problem-solving in sheep.
+  authors: S. D. McBride, N. Perentos, A. J. Morton
+  link:
+    url: https://link.springer.com/article/10.1007/s10071-014-0807-3
+    display: Animal Cognition, 18(1), 361–371
+  highlight: 0
+
+- title: "The alpha band of the resting electroencephalogram under pulsed and continuous radio frequency exposures"
+  image: RFEEGAlphaBand.png
+  description: This study examines the effects of pulsed and continuous radio frequency exposures on the alpha band of the resting electroencephalogram. The research investigates potential changes in brain activity due to RF exposure.
+  authors: N. Perentos, R. J. Croft, R. J. McKenzie, I. Cosic
+  link:
+    url: https://ieeexplore.ieee.org/document/6417999
+    display: IEEE Transactions on Biomedical Engineering, 60(6), 1702–1710
+  highlight: 0
+
+- title: "The effect of GSM-like ELF radiation on the alpha band of the human resting EEG"
+  image: GSMEEGAlphaBand.png
+  description: This study investigates the impact of GSM-like ELF radiation on the alpha band of the human resting electroencephalogram (EEG). The research explores potential effects of mobile phone radiation on brain activity.
+  authors: N. Perentos, R. J. Croft, R. J. McKenzie, D. Cvetkovic, I. Cosic
+  link:
+    url: https://ieeexplore.ieee.org/document/4650503
+    display: Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2008, 5680–5683
+  highlight: 0
+
+- title: "Simulation of pulsed ELF magnetic fields generated by GSM mobile phone handsets for human electromagnetic bioeffects research"
+  image: GSMELFsimulations.png
+  description: This study focuses on simulating pulsed ELF magnetic fields produced by GSM mobile phone handsets. The research aims to support investigations into the bioeffects of these fields on humans.
+  authors: N. Perentos, S. Iskra, R. J. McKenzie, I. Cosic
+  link:
+    url: https://link.springer.com/article/10.1007/BF03179350
+    display: Australasian Physical & Engineering Sciences in Medicine, 31(3), 235–242
+  highlight: 0
+
+- title: "Comparison of the effects of continuous and pulsed mobile phone like RF exposure on the human EEG"
+  image: RFEEGExposure.png
+  description: This study compares the effects of continuous and pulsed radiofrequency (RF) exposure, similar to that from mobile phones, on the human electroencephalogram (EEG). The research investigates potential differences in brain activity responses to these exposure types.
+  authors: N. Perentos, R. J. Croft, R. J. McKenzie, D. Cvetkovic, I. Cosic
+  link:
+    url: https://link.springer.com/article/10.1007/BF03178437
+    display: Australasian Physical & Engineering Sciences in Medicine, 30(4), 274–280
+  highlight: 0
