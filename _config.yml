@@ -11,7 +11,7 @@ email: perentos.n@unic.ac.cy
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Naturalistic Neuroscience Lab
 baseurl: ""
-url: ""
+url: "https://perentoslab.com"
 
 include:
   - .htaccess
